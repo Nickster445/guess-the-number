@@ -10,3 +10,6 @@ Programmet ska redovisas i tre delar:
 - En algoritm beskriven som ett flödesschema och pseudokod.
 - Ett körbart program i Console-miljö.
 - Frivillig uppgift: En grafisk version av programmet
+
+
+written by Nickster445 - uh i commited as the wrong account so it says caspian commited when he did not lol
