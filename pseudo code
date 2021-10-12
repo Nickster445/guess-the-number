@@ -1,0 +1,9 @@
+pseudo code for guess the number code:
+
+generate option to start program;
+generate function for random numbers;
+generate a number between 1 and 100;
+function for user input on guessing;
+while loop for low and high;
+if statements for low and high;
+finalize program and look for things to change/remove;
