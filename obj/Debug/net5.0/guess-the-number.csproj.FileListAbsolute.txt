@@ -1,0 +1,16 @@
+C:\Users\Admin\Documents\GitHub\guess-the-number\bin\Debug\net5.0\guess-the-number.exe
+C:\Users\Admin\Documents\GitHub\guess-the-number\bin\Debug\net5.0\guess-the-number.deps.json
+C:\Users\Admin\Documents\GitHub\guess-the-number\bin\Debug\net5.0\guess-the-number.runtimeconfig.json
+C:\Users\Admin\Documents\GitHub\guess-the-number\bin\Debug\net5.0\guess-the-number.runtimeconfig.dev.json
+C:\Users\Admin\Documents\GitHub\guess-the-number\bin\Debug\net5.0\guess-the-number.dll
+C:\Users\Admin\Documents\GitHub\guess-the-number\bin\Debug\net5.0\ref\guess-the-number.dll
+C:\Users\Admin\Documents\GitHub\guess-the-number\bin\Debug\net5.0\guess-the-number.pdb
+C:\Users\Admin\Documents\GitHub\guess-the-number\obj\Debug\net5.0\guess-the-number.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\guess-the-number\obj\Debug\net5.0\guess-the-number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\guess-the-number\obj\Debug\net5.0\guess-the-number.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\guess-the-number\obj\Debug\net5.0\guess-the-number.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\guess-the-number\obj\Debug\net5.0\guess-the-number.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\GitHub\guess-the-number\obj\Debug\net5.0\guess-the-number.dll
+C:\Users\Admin\Documents\GitHub\guess-the-number\obj\Debug\net5.0\ref\guess-the-number.dll
+C:\Users\Admin\Documents\GitHub\guess-the-number\obj\Debug\net5.0\guess-the-number.pdb
+C:\Users\Admin\Documents\GitHub\guess-the-number\obj\Debug\net5.0\guess-the-number.genruntimeconfig.cache
